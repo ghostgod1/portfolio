@@ -1,0 +1,18 @@
+[
+  {
+    "role": "CV Engineer Intern",
+    "organisation": "Raycura Medical Technologies",
+    "startDate": "Jun, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Worked on Computer Vison", "Reseached on 3D Pose Estimation"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Summer Intern",
+    "organisation": "Persistent Systems",
+    "startDate": "Jun, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Learned Computer Fundamentals", "Learned abot linux distributions"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
